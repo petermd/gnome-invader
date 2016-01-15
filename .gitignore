@@ -1,0 +1,12 @@
+.gradle
+build/
+!gradle.jar
+
+# Cache of project
+.gradletasknamecache
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+out/
