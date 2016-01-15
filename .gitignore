@@ -1,6 +1,5 @@
 .gradle
 build/
-!gradle.jar
 
 # Cache of project
 .gradletasknamecache
